@@ -43,7 +43,8 @@ namespace GraphicsExamples
             g.DrawEllipse(Bluepen, 455, 260, 80, 80);
             g.FillEllipse(drawBrush, 455, 260, 80, 80);
 
-
+            // this is a test comment
+            //bruh moment
         }
     }
 }
